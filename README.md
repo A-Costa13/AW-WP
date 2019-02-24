@@ -13,6 +13,7 @@ El nombre de la portada tiene la fuente cambiada a una enlazada de google fonts 
 Captura: 1-2 Menú + Botón <br>
 Hay un botón en la parte inferior con el color principal de la página que lleva a una entrada del foro que sirve de acceso primario a los nuevos usuarios.
 <br>
+<br>
 Captura: 2 Página Media <br>
 He puesto un vídeo como ejemplo de lo que podría ser un página donde subir contenido multimedia a demás de que se aprecia un primer vistazo a un aside con características similares al resto de la página y un link a la página de patreon del autor.
 <br>
