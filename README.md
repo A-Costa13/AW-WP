@@ -16,7 +16,7 @@ Hay un botón en la parte inferior con el color principal de la página que llev
 Captura: 2 Página Media
 He puesto un vídeo como ejemplo de lo que podría ser un página donde subir contenido multimedia a demás de que se aprecia un primer vistazo a un aside con características similares al resto de la página y un link a la página de patreon del autor.
 
-Captura: 3 Foros
+Captura: 3 Foros <br>
 Esta página aparece cuando apretas el botón foros del menú principal y al ser una categoría lo que muestra es la búsqueda de las entradas que hay asignadas con esa categoría, en este caso los submenús que hay dentro de ella, jolly cooperation, builds y fashion souls.
 
 Captura: 4 Fashion Souls
